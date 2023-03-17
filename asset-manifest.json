@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TheEphir/spa_food/static/css/main.6d92dcda.css",
-    "main.js": "/TheEphir/spa_food/static/js/main.31223457.js",
-    "index.html": "/TheEphir/spa_food/index.html",
-    "main.6d92dcda.css.map": "/TheEphir/spa_food/static/css/main.6d92dcda.css.map",
-    "main.31223457.js.map": "/TheEphir/spa_food/static/js/main.31223457.js.map"
+    "main.css": "/TheEphir/spaFood/static/css/main.6d92dcda.css",
+    "main.js": "/TheEphir/spaFood/static/js/main.31223457.js",
+    "index.html": "/TheEphir/spaFood/index.html",
+    "main.6d92dcda.css.map": "/TheEphir/spaFood/static/css/main.6d92dcda.css.map",
+    "main.31223457.js.map": "/TheEphir/spaFood/static/js/main.31223457.js.map"
   },
   "entrypoints": [
     "static/css/main.6d92dcda.css",
