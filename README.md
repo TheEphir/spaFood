@@ -1,1 +1,1 @@
-Demo [Demo] (https://theephir.github.io/spaFood/).
+[Demo](https://github.com/facebook/create-react-app)
