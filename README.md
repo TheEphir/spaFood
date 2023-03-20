@@ -1,1 +1,1 @@
-[Demo] (https://theephir.github.io/spaFood/).
+Demo [Demo] (https://theephir.github.io/spaFood/).
