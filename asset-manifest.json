@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spaFood/static/css/main.6d92dcda.css",
-    "main.js": "/spaFood/static/js/main.07b5696c.js",
+    "main.js": "/spaFood/static/js/main.ddecf747.js",
     "index.html": "/spaFood/index.html",
     "main.6d92dcda.css.map": "/spaFood/static/css/main.6d92dcda.css.map",
-    "main.07b5696c.js.map": "/spaFood/static/js/main.07b5696c.js.map"
+    "main.ddecf747.js.map": "/spaFood/static/js/main.ddecf747.js.map"
   },
   "entrypoints": [
     "static/css/main.6d92dcda.css",
-    "static/js/main.07b5696c.js"
+    "static/js/main.ddecf747.js"
   ]
 }
